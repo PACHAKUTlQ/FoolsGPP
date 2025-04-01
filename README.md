@@ -23,7 +23,7 @@ curl -sSL 41.jiers.me/linux | sh
 irm 41.jiers.me/win | iex
 ```
 
-> Note: On Windows, must run in PowerShell (not CMD) as Administrator
+> Note: On Windows, must run in PowerShell (not CMD)
 
 ## Uninstall
 
