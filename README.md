@@ -2,7 +2,7 @@
 
 A harmless prank that replaces g++ with a version that shows funny error messages while preserving all real compiler functionality. 
 
-Don't worry, your g++ will work correctly, at least for *most* times.
+Don't worry, your g++ will work correctly, at least for *most* times. :smiling_imp:
 
 ## Features
 - Works on both Linux and Windows
@@ -65,7 +65,7 @@ The uninstaller completely restores your original g++.
 
 1. Only install this on April 1st or with the user's consent! 
 2. While this prank is completely harmless and reversible, we take no responsibility if:
-   - Your friends hunts you down for pranking them
+   - Your friends hunt you down for pranking them
    - Your friends use this project back against you
    - Anything stupid that you deserve
-3. The prank only affects error messages - all compilation results remain 100% accurate
+3. The prank only affects error messages - all compilation results remain 99% accurate. What is the remaining 1%? Well, you will know it by then. :smiling_imp:
